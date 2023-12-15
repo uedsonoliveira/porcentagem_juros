@@ -1,2 +1,2 @@
 # porcentagem_juros
-Calculadora de porcentagem e juros - Portugol
+Calculadora porcentagem e juros - Portugol
