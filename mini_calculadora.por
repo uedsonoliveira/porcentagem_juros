@@ -3,6 +3,7 @@ programa
 	
 	funcao inicio()
 	{
+		//DECLARAR VARIAVEIS
 		real primeiro_numero
 		real segundo_numero
 		caracter operacao
@@ -10,6 +11,7 @@ programa
 
 		escreva("\n\n**Mini calculadora de dois números**")
 
+		//ENTRADA DE DADOS
 		escreva("\n\nDigite o primeiro número: ")
 		leia(primeiro_numero)
 		
@@ -27,7 +29,7 @@ programa
 
 		escreva("\nVocê escolheu a operação: "+operacao+"\n")
 		
-		
+		//USO DO SE
 		se (operacao == '+')
 		
 		{
